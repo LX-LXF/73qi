@@ -1,0 +1,7 @@
+/**app.wxss**/
+
+/* 图片的边距 */
+
+image {
+  vertical-align: middle;
+}

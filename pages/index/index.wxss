@@ -1,0 +1,61 @@
+/**index.wxss**/
+
+page {
+  background-color: #f0f0f0;
+}
+
+swiper {
+  height: 320rpx;
+}
+
+swiper image {
+  width: 750rpx;
+  height: 320rpx;
+}
+
+/* 活动标题 */
+.title {
+  font-size: 28rpx;
+  color: #3c3c3c;
+  font-weight: 500;
+  padding: 30rpx;
+  line-height: 1;
+}
+
+/* 列表 */
+.item image {
+  width: 750rpx;
+  height: 320rpx;
+}
+
+.item .info {
+  height: 180rpx;
+  padding:  16rpx 130rpx 20rpx 30rpx;
+  position: relative;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+
+.item .info .name{
+  font-size: 30rpx;
+  color: #3c3c3c;
+}
+
+.item .info .extra {
+  font-size: 22rpx;
+  color: #848484;
+  position: absolute;
+  bottom: 20rpx;
+}
+
+.item .info .status {
+  position: absolute;
+  top: 16rpx;
+  right: 30rpx;
+  font-size: 30rpx;
+  color: #FE6249;
+}
+
+.item {
+  margin-bottom: 20rpx;
+}
