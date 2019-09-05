@@ -7,13 +7,13 @@
 <swiper indicator-dots indicator-color="rgba(255,255,255, .6)" indicator-active-color="#fff" autoplay interval="3000"
   circular>
   <swiper-item>
-    <image src="../../static/uploads/slide_1.jpg"></image>
+    <image src="https://lx-lxf.github.io/xcx/uploads/slide_1.jpg"></image>
   </swiper-item>
   <swiper-item>
-    <image src="../../static/uploads/slide_2.jpg"></image>
+    <image src="https://lx-lxf.github.io/xcx/uploads/slide_2.jpg"></image>
   </swiper-item>
   <swiper-item>
-    <image src="../../static/uploads/slide_3.jpg"></image>
+    <image src="https://lx-lxf.github.io/xcx/uploads/slide_3.jpg"></image>
   </swiper-item>
 </swiper>
 
@@ -45,50 +45,50 @@
   </view>
 </view>
 <view class="item">
-  <navigator url="">
-    <image src="/static/uploads/item_2.png"></image>
-  </navigator>
-  <!-- 活动相关 -->
-  <view class="info">
-    <!-- 活动名称 -->
-    <view class="name">
-      疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动
-    </view>
-    <!-- 活动安排 -->
-    <!-- text相当于网页的span相当于网页的行内元素 -->
-    <view class="extra">
-      <text>200人报名</text>
-      <text>本周六开始</text>
-    </view>
-    <!-- 状态 -->
-    <view class="status">
-      免费
-    </view>
-  </view>
-</view>
-<view class="item">
-  <navigator url="">
-    <image src="/static/uploads/item_3.png"></image>
-  </navigator>
-  <!-- 活动相关 -->
-  <view class="info">
-    <!-- 活动名称 -->
-    <view class="name">
-      疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动
-    </view>
-    <!-- 活动安排 -->
-    <!-- text相当于网页的span相当于网页的行内元素 -->
-    <view class="extra">
-      <text>200人报名</text>
-      <text>本周六开始</text>
-    </view>
-    <!-- 状态 -->
-    <view class="status">
-      免费
+    <navigator url="">
+      <image src="/static/uploads/item_2.png"></image>
+    </navigator>
+    <!-- 活动相关 -->
+    <view class="info">
+      <!-- 活动名称 -->
+      <view class="name">
+        疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动
+      </view>
+      <!-- 活动安排 -->
+      <!-- text相当于网页的span相当于网页的行内元素 -->
+      <view class="extra">
+        <text>200人报名</text>
+        <text>本周六开始</text>
+      </view>
+      <!-- 状态 -->
+      <view class="status">
+        免费
+      </view>
     </view>
   </view>
-</view>
-<view class="item">
+  <view class="item">
+      <navigator url="">
+        <image src="/static/uploads/item_3.png"></image>
+      </navigator>
+      <!-- 活动相关 -->
+      <view class="info">
+        <!-- 活动名称 -->
+        <view class="name">
+          疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动
+        </view>
+        <!-- 活动安排 -->
+        <!-- text相当于网页的span相当于网页的行内元素 -->
+        <view class="extra">
+          <text>200人报名</text>
+          <text>本周六开始</text>
+        </view>
+        <!-- 状态 -->
+        <view class="status">
+          免费
+        </view>
+      </view>
+    </view>
+    <view class="item">
   <navigator url="">
     <image src="/static/uploads/item_4.png"></image>
   </navigator>
